@@ -1,16 +1,4 @@
-# math_block
+![launch_image_pre](https://user-images.githubusercontent.com/72660021/148109484-1d74bd4a-1032-48a5-9f42-5b7bb388134d.png)
 
-A new math Flutter project
+# Proyecto notebook
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
